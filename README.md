@@ -1,6 +1,8 @@
 # Capstone Design
 This repository contains design doc for Capstone project, which was developed as part of my udacity android developer nanodegree.
 
+The name of the app is bologna tranpsort app and helps in moving around city of bologna using public transit, given source, destination, date and time.
+
 ## License
 
 ```
