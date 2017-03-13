@@ -3,6 +3,9 @@ This repository contains design doc for Capstone project, which was developed as
 
 The name of the app is bologna tranpsort app and helps in moving around city of bologna using public transit, given source, destination, date and time.
 
+A modified and advanced version of this was used as part of Indore hackathon in devpost. Link is give below 
+https://devpost.com/software/indore-commute
+
 ## License
 
 ```
